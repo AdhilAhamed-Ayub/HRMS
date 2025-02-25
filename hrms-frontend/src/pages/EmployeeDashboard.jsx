@@ -17,6 +17,6 @@ const EmployeeDashboard = () => {
       </div>
     </MainLayout>
   );
-};
+}; 
 
 export default EmployeeDashboard;
